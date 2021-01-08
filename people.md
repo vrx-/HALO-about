@@ -31,12 +31,12 @@ Department of Ocean & Mechanical Engineering/HBOI
 Assistant Professor
 Department of Computer & Electrical Engineering and Computer Science (CEECS)
 Florida Atlantic University
-automated machine learning (AutoML), physics-informed machine learning
+Research interests are in the areas of **Artificial Intelligence** including automated machine learning (AutoML) and physics-informed machine learning
 Ash Brereton,
 
 [Kristen Davis](mailto:KSande14@fau.edu), IRLON Manager
 Kristen Davis has her B.S. degree in Marine Biology, with an emphasis in chemistry, from Millersville University of Pennsylvania. She has worked in Dr. Hanisak’s lab for the past 11 years running the day-to-day operations of the long-term water quality and seagrass monitoring in the Indian River Lagoon. Kristen is responsible for the day-to-day operations of IRLON
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NzE0NTM2NSwtNjQ4Mzk4NzY4LC03OD
-gzNzQxNjddfQ==
+eyJoaXN0b3J5IjpbLTEwNjE3ODgxMDcsLTY0ODM5ODc2OCwtNz
+g4Mzc0MTY3XX0=
 -->
