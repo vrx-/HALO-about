@@ -4,13 +4,13 @@
 ![Mingshun Jiang, Ph.D](https://www.fau.edu/hboi/images/Mingshun.Jiang.jpg)
 Associate Research Professor 
 Harbor Branch Oceanographic Institute
-Physical oceanographer specializing in ocean coupled physical-biogeochemical-ecological modeling
+Physical oceanographer specializing in **Ocean coupled physical-biogeochemical-ecological modeling**.
 
 **Jordon Beckler, Ph.D.**
 ![Jordon Beckler, Ph.D.](https://www.fau.edu/hboi/images/Becklerheadshot.jpg)
 Assistant Research Professor
 Harbor Branch Oceanographic Institute
-Chemical oceanographer specializing in autonomous biogeochemical sensing technologies
+Chemical oceanographer specializing in **Autonomous biogeochemical sensing technologies**.
 
 **M. Dennis Hanisak, Ph.D.**  
 ![M. Dennis Hanisak, Ph.D.](https://www.fau.edu/hboi/images/Hanisak-pic.jpg)
@@ -37,6 +37,6 @@ Ash Brereton,
 [Kristen Davis](mailto:KSande14@fau.edu), IRLON Manager
 Kristen Davis has her B.S. degree in Marine Biology, with an emphasis in chemistry, from Millersville University of Pennsylvania. She has worked in Dr. Hanisak’s lab for the past 11 years running the day-to-day operations of the long-term water quality and seagrass monitoring in the Indian River Lagoon. Kristen is responsible for the day-to-day operations of IRLON
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjE3ODgxMDcsLTY0ODM5ODc2OCwtNz
-g4Mzc0MTY3XX0=
+eyJoaXN0b3J5IjpbMTMxOTAxNjMyNywtNjQ4Mzk4NzY4LC03OD
+gzNzQxNjddfQ==
 -->
