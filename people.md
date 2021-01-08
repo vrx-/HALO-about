@@ -22,12 +22,12 @@ Marine biologist and ecologist currently focused on determining the relationship
 
 **  
 Aditya Nayak, Ph.D.**  
-![enter image description here](https://www.fau.edu/hboi/images/aditya.jpg)
+![Aditya Nayak, Ph.D.](https://www.fau.edu/hboi/images/aditya.jpg)
 Assistant Professor  
 Department of Ocean & Mechanical Engineering/HBOI
 
 **Yufei Tang (唐宇飞), Ph.D.**
-
+![Yufei Tang, Ph.D.](http://faculty.eng.fau.edu/tangy/files/2017/04/YufeiTang-240x300.jpg)
 Assistant Professor
 Department of Computer & Electrical Engineering and Computer Science (CEECS)
 Florida Atlantic University
@@ -37,6 +37,6 @@ Ash Brereton,
 [Kristen Davis](mailto:KSande14@fau.edu), IRLON Manager
 Kristen Davis has her B.S. degree in Marine Biology, with an emphasis in chemistry, from Millersville University of Pennsylvania. She has worked in Dr. Hanisak’s lab for the past 11 years running the day-to-day operations of the long-term water quality and seagrass monitoring in the Indian River Lagoon. Kristen is responsible for the day-to-day operations of IRLON
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjUxODgwMjUsLTY0ODM5ODc2OCwtNz
-g4Mzc0MTY3XX0=
+eyJoaXN0b3J5IjpbNTA5NzY5NCwtNjQ4Mzk4NzY4LC03ODgzNz
+QxNjddfQ==
 -->
