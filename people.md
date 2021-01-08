@@ -16,7 +16,7 @@ Physical oceanographer specializing in **Ocean coupled physical-biogeochemical-e
 ![Yufei Tang, Ph.D.](http://www.eng.fau.edu/engineering/directory/faculty/tang/images/tang.jpg)
 Assistant Professor
 FAU, Department of Computer & Electrical Engineering and Computer Science (CEECS)
-Research interests are in the areas of **Artificial Intelligence** including automated machine learning (AutoML) and physics-informed machine learning
+Research interests are in Artificial Intelligence including **automated machine learning and physics-informed machine learning**.
 
 **Malcolm McFarland, Ph.D.**
 ![Malcolm McFarland, Ph.D](http://www.fau.edu/research/in-the-lab/Dr-MMcFarland-headshot.jpg)
@@ -30,23 +30,49 @@ Assistant Professor
 HBOI - Department of Ocean & Mechanical Engineering
 Specializes in **Oceanic optical instrumentation** to investigate Coastal/Estuarine processes and Biophysical interactions.
 
+**Scott Duncan**
+![Scott Duncan](https://media-exp1.licdn.com/dms/image/C5603AQEW-SJkeKA8Qg/profile-displayphoto-shrink_200_200/0?e=1611792000&v=beta&t=4agp8AWl8JnbEprInzZQTb1qes-t7XrXPfnhOZX6Vaw)
+Founder and President
+NAVOCEAN
+Design and fabrication of custom **Automated Surface Vessels** (ASVs) for ocean data collection.
+
+**Tim Moore, Ph.D.**
+![Tim Moore, Ph.D.](https://www.fau.edu/hboi/flcchh/the-team/images/team-Tim-Moore.jpg)
+Research professor
+HBOI
+Specializes in using **ocean color remote sensing technology** to study the ecology of phytoplankton and the environment.
+
 
 **Dennis Hanisak, Ph.D.**  
 ![Dennis Hanisak, Ph.D.](https://www.fau.edu/hboi/images/Hanisak-pic.jpg)
 Research Professor. Director of Marine Ecosystem Health program, and Director of Education.
 HBOI
+Director of the Indian River Lagoon Observatory (IRLO)
 Marine biologist and ecologist currently focused on determining the **relationships of water quality with algal communities**.
 
+## Research and lab personnel
+Ash Brereton, Postdoctoral researcher
+![enter image description here](https://www.fau.edu/hboi/images/ashley-brereton.jpg)
+
+David Wilson, Ph.D candidate
+![David Wilson](http://faculty.eng.fau.edu/tangy/files/2018/07/David.png)
+
+Lynn Wilking, Geochemistry and Geochemical Sensing Lab Manager
+![Lynn Wilking](https://www.fau.edu/hboi/images/LynnWilking.jpeg)
+
+Jessica Carney, Biogeochemical Coordinator
+![Jess Carney](https://web.uri.edu/gso/files/carney-500px.jpg)
+
+Kristen Davis,  IRLON Manager
+![Kristen Davis](https://fau.edu/hboi/irlo/images/people/DavisKristen.jpg)
+
+Haley McQueen, IRLON Water Quality Analyst
+![Haley McQueen](https://media-exp1.licdn.com/dms/image/C5603AQGovPogLNgAtQ/profile-displayphoto-shrink_200_200/0/1516989771614?e=1615420800&v=beta&t=4ADJkH0RNeCbpc03F7lmL_7WjMfM87bUIPF6rPUTNVk)
+
+Veronica Ruiz Xomchuk, Postdoctoral researcher
 
 
-
-
-Ash Brereton,
-Lynn Wilking
-
-[Kristen Davis](mailto:KSande14@fau.edu), IRLON Manager
-Kristen Davis has her B.S. degree in Marine Biology, with an emphasis in chemistry, from Millersville University of Pennsylvania. She has worked in Dr. Hanisak’s lab for the past 11 years running the day-to-day operations of the long-term water quality and seagrass monitoring in the Indian River Lagoon. Kristen is responsible for the day-to-day operations of IRLON
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTE1NzA0MTksMTM4OTUyMjc4NiwtNj
-Q4Mzk4NzY4LC03ODgzNzQxNjddfQ==
+eyJoaXN0b3J5IjpbMTAyMTgwNjIwMiwxMzg5NTIyNzg2LC02ND
+gzOTg3NjgsLTc4ODM3NDE2N119
 -->
