@@ -1,16 +1,17 @@
 
-
-**Mingshun Jiang, Ph.D.**  
-![Mingshun Jiang, Ph.D](https://www.fau.edu/hboi/images/Mingshun.Jiang.jpg)
-Associate Research Professor 
-Harbor Branch Oceanographic Institute
-Physical oceanographer specializing in **Ocean coupled physical-biogeochemical-ecological modeling**.
-
+##People##
 **Jordon Beckler, Ph.D.**
 ![Jordon Beckler, Ph.D.](https://www.fau.edu/hboi/images/Becklerheadshot.jpg)
 Assistant Research Professor
 Harbor Branch Oceanographic Institute
 Chemical oceanographer specializing in **Autonomous biogeochemical sensing technologies**.
+
+**Yufei Tang (唐宇飞), Ph.D.**
+![Yufei Tang, Ph.D.](http://faculty.eng.fau.edu/tangy/files/2017/04/YufeiTang-240x300.jpg)
+Assistant Professor
+Department of Computer & Electrical Engineering and Computer Science (CEECS)
+Florida Atlantic University
+Research interests are in the areas of **Artificial Intelligence** including automated machine learning (AutoML) and physics-informed machine learning
 
 **M. Dennis Hanisak, Ph.D.**  
 ![M. Dennis Hanisak, Ph.D.](https://www.fau.edu/hboi/images/Hanisak-pic.jpg)
@@ -26,17 +27,12 @@ Aditya Nayak, Ph.D.**
 Assistant Professor  
 Department of Ocean & Mechanical Engineering/HBOI
 
-**Yufei Tang (唐宇飞), Ph.D.**
-![Yufei Tang, Ph.D.](http://faculty.eng.fau.edu/tangy/files/2017/04/YufeiTang-240x300.jpg)
-Assistant Professor
-Department of Computer & Electrical Engineering and Computer Science (CEECS)
-Florida Atlantic University
-Research interests are in the areas of **Artificial Intelligence** including automated machine learning (AutoML) and physics-informed machine learning
+
 Ash Brereton,
 
 [Kristen Davis](mailto:KSande14@fau.edu), IRLON Manager
 Kristen Davis has her B.S. degree in Marine Biology, with an emphasis in chemistry, from Millersville University of Pennsylvania. She has worked in Dr. Hanisak’s lab for the past 11 years running the day-to-day operations of the long-term water quality and seagrass monitoring in the Indian River Lagoon. Kristen is responsible for the day-to-day operations of IRLON
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTAxNjMyNywtNjQ4Mzk4NzY4LC03OD
-gzNzQxNjddfQ==
+eyJoaXN0b3J5IjpbOTMyNjMzOTQzLC02NDgzOTg3NjgsLTc4OD
+M3NDE2N119
 -->
