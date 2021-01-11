@@ -71,12 +71,13 @@ Haley McQueen, IRLON Water Quality Analyst
 
 Veronica Ruiz Xomchuk, Postdoctoral researcher
 
-**Ethan Arutunian**, Navocean cofunder
-![Scott Duncan](https://media-exp1.licdn.com/dms/image/C5603AQEW-SJkeKA8Qg/profile-displayphoto-shrink_200_200/0?e=1611792000&v=beta&t=4agp8AWl8JnbEprInzZQTb1qes-t7XrXPfnhOZX6Vaw)
+Ethan Arutunian, Navocean cofunder
+![Ethan Arutunian](https://navocean.com/navocean/wp-content/uploads/2016/02/team-ethan.jpg)
 
-
-
+Ethan Arutunian, Navocean cofunder
+![Ethan Arutunian](https://navocean.com/navocean/wp-content/uploads/2016/02/team-ethan.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwODEwNTgwLDEwMjE4MDYyMDIsMTM4OT
-UyMjc4NiwtNjQ4Mzk4NzY4LC03ODgzNzQxNjddfQ==
+eyJoaXN0b3J5IjpbLTE2NDQ0MjA4MzQsNDYwODEwNTgwLDEwMj
+E4MDYyMDIsMTM4OTUyMjc4NiwtNjQ4Mzk4NzY4LC03ODgzNzQx
+NjddfQ==
 -->
