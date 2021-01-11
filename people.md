@@ -2,7 +2,11 @@
 
 ## HALO Portal 
 
-## HALO PrjecPrincipal investigators
+**Veronica Ruiz Xomchuk** 
+![Veronica Ruiz Xomchuk](https://i1.rgstatic.net/ii/profile.image/978877346246656-1610393954059_Q128/Veronica_Ruiz_Xomchuk.jpg)
+
+
+## HALO Project - Principal investigators
 **Jordon Beckler, Ph.D.**
 ![Jordon Beckler, Ph.D.](https://www.fau.edu/hboi/images/Becklerheadshot.jpg)
 Assistant Research Professor
@@ -72,16 +76,13 @@ Kristen Davis,  IRLON Manager
 Haley McQueen, IRLON Water Quality Analyst
 ![Haley McQueen](https://media-exp1.licdn.com/dms/image/C5603AQGovPogLNgAtQ/profile-displayphoto-shrink_200_200/0/1516989771614?e=1615420800&v=beta&t=4ADJkH0RNeCbpc03F7lmL_7WjMfM87bUIPF6rPUTNVk)
 
-Veronica Ruiz Xomchuk, Postdoctoral researcher
-![Veronica Ruiz Xomchuk](https://i1.rgstatic.net/ii/profile.image/978877346246656-1610393954059_Q128/Veronica_Ruiz_Xomchuk.jpg)
-
 Ethan Arutunian, Navocean cofunder
 ![Ethan Arutunian](https://navocean.com/navocean/wp-content/uploads/2016/02/team-ethan.jpg)
 
 Dan Wood, Navocean software developer
 ![Dan Wood](https://navocean.com/navocean/wp-content/uploads/2014/08/danpowersail.jpg))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4MDgyODU2LDExMzI0OTY1NDQsLTE3NT
-g2NzgxMzEsMTU3Nzg4NzI0MSw0NjA4MTA1ODAsMTAyMTgwNjIw
-MiwxMzg5NTIyNzg2LC02NDgzOTg3NjgsLTc4ODM3NDE2N119
+eyJoaXN0b3J5IjpbNzYwNDk5NzIsMTEzMjQ5NjU0NCwtMTc1OD
+Y3ODEzMSwxNTc3ODg3MjQxLDQ2MDgxMDU4MCwxMDIxODA2MjAy
+LDEzODk1MjI3ODYsLTY0ODM5ODc2OCwtNzg4Mzc0MTY3XX0=
 -->
