@@ -1,8 +1,8 @@
 # People
 
-## Portal 
+## HALO Portal 
 
-## Principal investigators
+## HALO PrjecPrincipal investigators
 **Jordon Beckler, Ph.D.**
 ![Jordon Beckler, Ph.D.](https://www.fau.edu/hboi/images/Becklerheadshot.jpg)
 Assistant Research Professor
@@ -81,8 +81,7 @@ Ethan Arutunian, Navocean cofunder
 Dan Wood, Navocean software developer
 ![Dan Wood](https://navocean.com/navocean/wp-content/uploads/2014/08/danpowersail.jpg))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjUyNDUwMiwxMTMyNDk2NTQ0LC0xNz
-U4Njc4MTMxLDE1Nzc4ODcyNDEsNDYwODEwNTgwLDEwMjE4MDYy
-MDIsMTM4OTUyMjc4NiwtNjQ4Mzk4NzY4LC03ODgzNzQxNjddfQ
-==
+eyJoaXN0b3J5IjpbODA4MDgyODU2LDExMzI0OTY1NDQsLTE3NT
+g2NzgxMzEsMTU3Nzg4NzI0MSw0NjA4MTA1ODAsMTAyMTgwNjIw
+MiwxMzg5NTIyNzg2LC02NDgzOTg3NjgsLTc4ODM3NDE2N119
 -->
