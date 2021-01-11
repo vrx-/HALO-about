@@ -71,13 +71,12 @@ Haley McQueen, IRLON Water Quality Analyst
 
 Veronica Ruiz Xomchuk, Postdoctoral researcher
 
-**Scott Duncan**
+**Ethan Arutunian**, Navocean cofunder
 ![Scott Duncan](https://media-exp1.licdn.com/dms/image/C5603AQEW-SJkeKA8Qg/profile-displayphoto-shrink_200_200/0?e=1611792000&v=beta&t=4agp8AWl8JnbEprInzZQTb1qes-t7XrXPfnhOZX6Vaw)
-Founder and President
-NAVOCEAN
-Design and fabrication of custom **Automated Surface Vessels** (ASVs) for ocean data collection.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg3MzI2NTMsMTAyMTgwNjIwMiwxMz
-g5NTIyNzg2LC02NDgzOTg3NjgsLTc4ODM3NDE2N119
+eyJoaXN0b3J5IjpbNDYwODEwNTgwLDEwMjE4MDYyMDIsMTM4OT
+UyMjc4NiwtNjQ4Mzk4NzY4LC03ODgzNzQxNjddfQ==
 -->
