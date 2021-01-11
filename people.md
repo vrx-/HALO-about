@@ -1,4 +1,6 @@
 # People
+
+## Portal 
 ## Principal investigators
 **Jordon Beckler, Ph.D.**
 ![Jordon Beckler, Ph.D.](https://www.fau.edu/hboi/images/Becklerheadshot.jpg)
@@ -78,7 +80,8 @@ Ethan Arutunian, Navocean cofunder
 Dan Wood, Navocean software developer
 ![Dan Wood](https://navocean.com/navocean/wp-content/uploads/2014/08/danpowersail.jpg))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjQ5NjU0NCwtMTc1ODY3ODEzMSwxNT
-c3ODg3MjQxLDQ2MDgxMDU4MCwxMDIxODA2MjAyLDEzODk1MjI3
-ODYsLTY0ODM5ODc2OCwtNzg4Mzc0MTY3XX0=
+eyJoaXN0b3J5IjpbLTMyNTg3NDY2NCwxMTMyNDk2NTQ0LC0xNz
+U4Njc4MTMxLDE1Nzc4ODcyNDEsNDYwODEwNTgwLDEwMjE4MDYy
+MDIsMTM4OTUyMjc4NiwtNjQ4Mzk4NzY4LC03ODgzNzQxNjddfQ
+==
 -->
