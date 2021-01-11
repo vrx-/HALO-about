@@ -4,7 +4,15 @@
 
 **Veronica Ruiz Xomchuk** 
 ![Veronica Ruiz Xomchuk](https://i1.rgstatic.net/ii/profile.image/978877346246656-1610393954059_Q128/Veronica_Ruiz_Xomchuk.jpg)
+Postdoctoral researcher
+HBOI -  Geochemistry and Geochemical Sensing Lab
+Data scientist
 
+**Veronica Ruiz Xomchuk** 
+![Veronica Ruiz Xomchuk](https://i1.rgstatic.net/ii/profile.image/978877346246656-1610393954059_Q128/Veronica_Ruiz_Xomchuk.jpg)
+Postdoctoral researcher
+HBOI -  Geochemistry and Geochemical Sensing Lab
+Data scientist
 
 ## HALO Project - Principal investigators
 **Jordon Beckler, Ph.D.**
@@ -82,7 +90,7 @@ Ethan Arutunian, Navocean cofunder
 Dan Wood, Navocean software developer
 ![Dan Wood](https://navocean.com/navocean/wp-content/uploads/2014/08/danpowersail.jpg))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwNDk5NzIsMTEzMjQ5NjU0NCwtMTc1OD
-Y3ODEzMSwxNTc3ODg3MjQxLDQ2MDgxMDU4MCwxMDIxODA2MjAy
-LDEzODk1MjI3ODYsLTY0ODM5ODc2OCwtNzg4Mzc0MTY3XX0=
+eyJoaXN0b3J5IjpbNzMzNjM5NTA5LDExMzI0OTY1NDQsLTE3NT
+g2NzgxMzEsMTU3Nzg4NzI0MSw0NjA4MTA1ODAsMTAyMTgwNjIw
+MiwxMzg5NTIyNzg2LC02NDgzOTg3NjgsLTc4ODM3NDE2N119
 -->
