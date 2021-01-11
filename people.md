@@ -70,7 +70,7 @@ Haley McQueen, IRLON Water Quality Analyst
 ![Haley McQueen](https://media-exp1.licdn.com/dms/image/C5603AQGovPogLNgAtQ/profile-displayphoto-shrink_200_200/0/1516989771614?e=1615420800&v=beta&t=4ADJkH0RNeCbpc03F7lmL_7WjMfM87bUIPF6rPUTNVk)
 
 Veronica Ruiz Xomchuk, Postdoctoral researcher
-![Veronica Ruiz Xomchuk](https://i1.rgstatic.net/ii/profile.image/769399090839552-1560450446097_Q512/Veronica_Ruiz_Xomchuk.jpg)
+![Veronica Ruiz Xomchuk](https://i1.rgstatic.net/ii/profile.image/978877346246656-1610393954059_Q128/Veronica_Ruiz_Xomchuk.jpg)
 
 Ethan Arutunian, Navocean cofunder
 ![Ethan Arutunian](https://navocean.com/navocean/wp-content/uploads/2016/02/team-ethan.jpg)
@@ -78,7 +78,7 @@ Ethan Arutunian, Navocean cofunder
 Dan Wood, Navocean software developer
 ![Dan Wood](https://navocean.com/navocean/wp-content/uploads/2014/08/danpowersail.jpg))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg2NzgxMzEsMTU3Nzg4NzI0MSw0Nj
-A4MTA1ODAsMTAyMTgwNjIwMiwxMzg5NTIyNzg2LC02NDgzOTg3
-NjgsLTc4ODM3NDE2N119
+eyJoaXN0b3J5IjpbMTEzMjQ5NjU0NCwtMTc1ODY3ODEzMSwxNT
+c3ODg3MjQxLDQ2MDgxMDU4MCwxMDIxODA2MjAyLDEzODk1MjI3
+ODYsLTY0ODM5ODc2OCwtNzg4Mzc0MTY3XX0=
 -->
