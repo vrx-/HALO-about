@@ -1,17 +1,15 @@
 # People
 
 ## HALO Portal 
+**Bob Currier**
+![Bob Currier](http://halo.gcoos.org/static/images/codemonkey_team.png)
+Data Engineer/Product Developer
+GCOOS
 
 **Veronica Ruiz Xomchuk** 
 ![Veronica Ruiz Xomchuk](https://i1.rgstatic.net/ii/profile.image/978877346246656-1610393954059_Q128/Veronica_Ruiz_Xomchuk.jpg)
 Data scientist, Postdoctoral researcher
 HBOI -  Geochemistry and Geochemical Sensing Lab
-
-
-**Bob Currier* 
-![Bob Currier](https://i1.rgstatic.net/ii/profile.image/978877346246656-1610393954059_Q128/Veronica_Ruiz_Xomchuk.jpg)
-Data Engineer/Product Developer
-GCOOS
 
 ## HALO Project - Principal investigators
 **Jordon Beckler, Ph.D.**
@@ -89,7 +87,7 @@ Ethan Arutunian, Navocean cofunder
 Dan Wood, Navocean software developer
 ![Dan Wood](https://navocean.com/navocean/wp-content/uploads/2014/08/danpowersail.jpg))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTM4MTI2MTksMTEzMjQ5NjU0NCwtMT
+eyJoaXN0b3J5IjpbLTIxMDM1NDQxMjcsMTEzMjQ5NjU0NCwtMT
 c1ODY3ODEzMSwxNTc3ODg3MjQxLDQ2MDgxMDU4MCwxMDIxODA2
 MjAyLDEzODk1MjI3ODYsLTY0ODM5ODc2OCwtNzg4Mzc0MTY3XX
 0=
