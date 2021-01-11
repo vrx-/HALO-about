@@ -74,10 +74,10 @@ Veronica Ruiz Xomchuk, Postdoctoral researcher
 Ethan Arutunian, Navocean cofunder
 ![Ethan Arutunian](https://navocean.com/navocean/wp-content/uploads/2016/02/team-ethan.jpg)
 
-Ethan Arutunian, Navocean cofunder
+Dan Wood, Navocean software developer
 ![Ethan Arutunian](https://navocean.com/navocean/wp-content/uploads/2016/02/team-ethan.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQ0MjA4MzQsNDYwODEwNTgwLDEwMj
-E4MDYyMDIsMTM4OTUyMjc4NiwtNjQ4Mzk4NzY4LC03ODgzNzQx
-NjddfQ==
+eyJoaXN0b3J5IjpbNzE0OTM5ODQwLDQ2MDgxMDU4MCwxMDIxOD
+A2MjAyLDEzODk1MjI3ODYsLTY0ODM5ODc2OCwtNzg4Mzc0MTY3
+XX0=
 -->
