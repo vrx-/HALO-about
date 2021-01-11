@@ -75,9 +75,9 @@ Ethan Arutunian, Navocean cofunder
 ![Ethan Arutunian](https://navocean.com/navocean/wp-content/uploads/2016/02/team-ethan.jpg)
 
 Dan Wood, Navocean software developer
-![Ethan Arutunian](https://navocean.com/navocean/wp-content/uploads/2016/02/team-ethan.jpg)
+![Dan Wood](https://navocean.com/navocean/wp-content/uploads/2014/08/danpowersail.jpg))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0OTM5ODQwLDQ2MDgxMDU4MCwxMDIxOD
-A2MjAyLDEzODk1MjI3ODYsLTY0ODM5ODc2OCwtNzg4Mzc0MTY3
-XX0=
+eyJoaXN0b3J5IjpbMTU3Nzg4NzI0MSw0NjA4MTA1ODAsMTAyMT
+gwNjIwMiwxMzg5NTIyNzg2LC02NDgzOTg3NjgsLTc4ODM3NDE2
+N119
 -->
